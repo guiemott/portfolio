@@ -1,4 +1,4 @@
-## 👋🏻 Hi, I'm Guilherme "Emot" Barboza
+## 👋🏻 Hi, I'm Guilherme da Silva
 
 I'm a self-taught back-end software engineer currently working as a freelancer. Among the stacks I have knowledge there are JavaScript, Node.JS, HTML and I plan to perfect JavaScript and Node.JS in order to be even more focused on back-end solutions. Outside of work, I enjoy...
 </br></br>
