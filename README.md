@@ -1,6 +1,6 @@
 ## 👋🏻 Hi, I'm Guilherme da Silva
 
-I'm a self-taught back-end software engineer currently seeking for a career change to the tech industry. Among the stacks I have knowledge there are JavaScript, Node.JS, HTML and I plan to perfect JavaScript and Node.JS in order to be even more focused on back-end solutions. Outside of work, I enjoy...
+I'm a self-taught back-end developer currently seeking for a career change to software engineer. Among the stacks I have knowledge there are JavaScript, Node.JS, HTML and I plan to perfect JavaScript and Node.JS in order to be even more focused on back-end solutions. Outside of work, I enjoy...
 </br></br>
 * 🏎 Watch and play motorsports' games
 * 🎸 Playing guitar
