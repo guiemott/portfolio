@@ -12,6 +12,9 @@ I'm a self-taught back-end software engineer currently working as a freelancer. 
 * JavaScript - Complete Course [Hcode] - June 05th, 2022
 * Node.js, Express, MongoDB & More: The Complete Bootcamp 2022 [Jonas Schmedtmann] - September 14th, 2022</br></br>
 
+### Portfolio
+* [🍴 Forkify](https://github.com/guiemott/forkify-course-project) - [JavaScript, Parcel] - Web application to get recipes API and show to the user, with bookmarks functionality using the browser's Local Storage
+
 ### 📩 Connect with Me 📩
 * [Twitter](https://twitter.com/gui_emot)
 * [LinkedIn](https://linkedin.com/in/guilhermeluizbarboza)
